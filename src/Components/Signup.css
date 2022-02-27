@@ -1,0 +1,14 @@
+.loginWrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.loginCard {
+  width: 28vw;
+  margin-top: 50px;
+}
+
+.instaLogo {
+  display: flex;
+  justify-content: center;
+}
